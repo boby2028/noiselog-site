@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /downloads/
+Disallow: /DEPLOY-README.txt
+Disallow: /GROKBOT_DEPLOY.txt
+Sitemap: https://noiselog.tingweistudio.com/sitemap.xml
