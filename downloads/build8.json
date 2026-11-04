@@ -1,0 +1,14 @@
+{
+  "version": "1.0.2",
+  "build": 8,
+  "filename": "NoiseLog-1.0.2-invite-build8.apk",
+  "package": "com.probevibe.noiselog.mobile.direct.preview",
+  "url": "https://expo.dev/artifacts/eas/KXjT9VExRe7oqhV38L4yaCLkjLduf_96xbYXFz2yUNs.apk",
+  "bytes": 109683909,
+  "sha256": "b2d602ad25e04f555f344201330d38fb57cc34f48f6871fa3a0d2c79e8d626f1",
+  "certificateMatchesPrevious": true,
+  "nativeTestsPassed": 15,
+  "status": "invited-device-validation",
+  "hostingBuildExpiration": "2026-11-18T14:45:15.581Z",
+  "artifactExpiresAt": "2026-11-18T15:28:43Z"
+}
