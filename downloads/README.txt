@@ -1,10 +1,12 @@
 邻证 NoiseLog 安卓邀请测试包
-版本：1.0.2（8）
-下载：https://downloads.tingweistudio.com/android/NoiseLog-1.0.2-invite-build8.apk
-文件名：NoiseLog-1.0.2-invite-build8.apk
-SHA-256：b2d602ad25e04f555f344201330d38fb57cc34f48f6871fa3a0d2c79e8d626f1
-大小：109683909 字节
+版本：1.0.3（10）
+下载：https://downloads.tingweistudio.com/android/NoiseLog-1.0.3-invite-build10.apk
+文件名：NoiseLog-1.0.3-invite-build10.apk
+SHA-256：f2a3ba52e94eed056ce49b78d28f7a73e4164b0d52da016fd16c0ba4928a9072
+大小：109841053 字节
 
+此包仍需绑定安装码的激活码。首次安装请按官网帮助说明申请测试授权。
 已安装旧版：请直接覆盖更新，不要卸载或清除数据，原授权到期时间不变。
-修复测试范围：音视频启动、视频预录及水印。仍待华为、OPPO等真机验收，不保证所有设备已恢复。
+更新范围：分贝采样与校准、视频预录及水印。未校准读数属于估算，请在稳定声源下对照分贝仪校准并验证开关视频的读数；不能代替经计量认证的声级计。
+仍待华为、小米、OPPO等真机验收，不保证所有设备已恢复。
 安装包存放在邻证的独立下载域名。下载服务可能处理基本访问日志，不代表 App 上传私人音视频。

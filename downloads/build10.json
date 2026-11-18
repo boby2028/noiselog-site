@@ -1,0 +1,13 @@
+{
+  "version": "1.0.3",
+  "build": 10,
+  "filename": "NoiseLog-1.0.3-invite-build10.apk",
+  "package": "com.probevibe.noiselog.mobile.direct.preview",
+  "url": "https://downloads.tingweistudio.com/android/NoiseLog-1.0.3-invite-build10.apk",
+  "bytes": 109841053,
+  "sha256": "f2a3ba52e94eed056ce49b78d28f7a73e4164b0d52da016fd16c0ba4928a9072",
+  "certificateMatchesPrevious": true,
+  "activationRequired": true,
+  "status": "invited-device-validation",
+  "hosting": "Alibaba Cloud OSS"
+}
